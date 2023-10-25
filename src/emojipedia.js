@@ -22,10 +22,10 @@ const emojipedia = [
   },
   {
     id: 3,
-    emoji: ";",
-    name: "Rolling On The Floor, Laughing",
+    emoji: "👌",
+    name: "Its Nice",
     meaning:
-      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+      "Its to show someone that they/it Are/is Best/Nice. That they like it"
   }
 ];
  export default emojipedia;
